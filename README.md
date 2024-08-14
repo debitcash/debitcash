@@ -64,5 +64,3 @@ Website developed for a web development course.
 
 ### [Fishing_Script_for_WOW](https://github.com/debitcash/Fishing_Script_for_WOW)
 Fishing script for an online game.
-
----

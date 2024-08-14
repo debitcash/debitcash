@@ -1,20 +1,77 @@
-<h1 align="center">🤖01010111 01100101 01101100 01100011 01101111 01101101 01100101</h1>✌︎
+<h1 align="center">🤖👋 01010111 01100101 01101100 01100011 01101111 01101101 01100101</h1>✌︎
 <h3 align="center">A Java addict and Spring enthusiast</h3>
 
-🥷
-🤖🤖🤖
-<h2>HELLO WORLDEC</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yaroslavn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaroslavn" height="30" width="40" /></a>
-</p>
+<p align="left"> Hello there(not in binary this time 🤭), my name is Yaroslav and im in love with software development. My romance with it started few years ago when i started stdyuing computer science in THom[posn rivers univercity. These days im a fresh graduate and im in honeymoon with software development, im a huge fan that it can take me to places ive nerver been before and do thisng i would never b able to do without it. At the momnet i am a fresh graduate and looking for opportunities in Development world as a junior software developer, so if you know somebody who knows somebody, you ahve a chance to help me finally marry my love by bonding myself workwise with programming and let us live happily thereafter.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+Just in case if you don't, im looking to cooperate on JavaEE/Spring/Python projects, dont be shy and knock in my linkedin messages!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debitcash&show_icons=true&locale=en&layout=compact" alt="debitcash" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debitcash&show_icons=true&locale=en" alt="debitcash" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debitcash&" alt="debitcash" /></p>
+
+### Hello there (not in binary this time 🤭), my name is Yaroslav, and I’m in love with software development.
+
+My romance with coding began a few years ago when I started studying Computer Science at Thompson Rivers University. Now, as a fresh graduate, I'm in the honeymoon phase with software development. I'm a huge fan of how it can take me to places I’ve never been before and enable me to do things I could never achieve without it.
+
+At the moment, I’m excitedly looking for opportunities in the development world as a junior software developer. If you know someone who knows someone, you have the chance to help me solidify my bond with programming and let us live happily ever after in the world of code.
+
+Just in case you don’t, I’m looking to collaborate on JavaEE, Spring, or Python projects. Don’t be shy—feel free to drop me a message on LinkedIn!
+
+---
+
+## Skills
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=java,python" alt="Java, Python" />
+
+
+### Web Technologies
+<img src="https://skillicons.dev/icons?i=javascript,html,css" alt="JavaScript, HTML, CSS" />
+
+### Frameworks
+<img src="https://skillicons.dev/icons?i=spring,angular" alt="Spring, Angular" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL," /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,androidstudio,linux" alt="Git, Android Studio, Linux" />
+
+---
+
+## Projects and Experiments
+Here are the major recent projects:
+
+### [Web_Tree_Explorer](https://github.com/debitcash/Web_Tree_Explorer)
+To make website data extraction and analysis more efficient, I developed a tool using Java and JSF for the interface, Jsoup for data extraction, and JPA for storage.
+- Developed an intuitive web interface with Java and JSF that allows easy URL input and parameter setting.
+- Automated the retrieval of phone numbers, emails, images, and PDFs using Jsoup.
+- Organized and stored the extracted data using JPA for clear presentation and future reference.
+
+### [MTG_HP_Tracker_App](https://github.com/debitcash/MTG_HP_Tracker_App)
+For the purpose of assisting players with manual life point recording and game management, I developed an Android app that simplifies these tasks for Magic: The Gathering.
+
+Built a user-friendly platform using Android Studio and Java for creating accounts, tracking life points for up to 4 players, and managing game states.
+Implemented features such as dice rolling, game saving/loading, and random card introductions using SQLite for reliable data storage and Glide for image loading.
+Designed intuitive navigation and customization options to enhance user experience and engagement.
+
+### [Monte_Carlo_Simulation_for_DJIA](https://github.com/debitcash/Monte_Carlo_Simulation_for_DJIA)
+
+
+
+Here are the school projects and experiments:
+
+### [NASA_API_Java_vs_Python_Performance](https://github.com/debitcash/NASA_API_Java_vs_Python_Performance)
+
+### [Web_Dev_Final_Site](https://github.com/debitcash/Web_Dev_Final_Site)
+
+### [Fishing_Script_for_WOW](https://github.com/debitcash/Fishing_Script_for_WOW)
+
+
+
+
+
+
+
+
+

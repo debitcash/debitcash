@@ -30,7 +30,7 @@ Just in case you don’t, I’m looking to collaborate on JavaEE, Spring, or Pyt
 ---
 
 ## Projects and Experiments
-Here are the ***major recent projects***. Dive into the repositories for more visuals and in-depth info. Trust me, they're mint 👌
+Here are the ***major recent projects***. Dive into the repositories for more visuals and in-depth info. Trust me, they're mint👌
 
 ### [Web_Tree_Explorer](https://github.com/debitcash/Web_Tree_Explorer)
 To make website data extraction and analysis more efficient, I developed a tool using Java and JSF for the interface, Jsoup for data extraction, and JPA for storage.

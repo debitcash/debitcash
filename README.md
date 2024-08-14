@@ -40,7 +40,6 @@ To make website data extraction and analysis more efficient, I developed a tool 
 
 ### [MTG_HP_Tracker_App](https://github.com/debitcash/MTG_HP_Tracker_App)
 For the purpose of assisting players with manual life point recording and game management, I developed an Android app that simplifies these tasks for Magic: The Gathering.
-
 - Built a user-friendly platform using Android Studio and Java for creating accounts, tracking life points for up to 4 players, and managing game states.
 - Implemented features such as dice rolling, game saving/loading, and random card introductions using SQLite for reliable data storage and Glide for image loading.
 - Designed intuitive navigation and customization options to enhance user experience and engagement.

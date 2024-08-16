@@ -2,7 +2,7 @@
 
 ### Hello there (not in binary this time 🤭), my name is Yaroslav, and I’m in love with software development.
 
-My romance with coding began a few years ago when I started studying Computer Science at Thompson Rivers University. Now, as a fresh graduate, I'm in the honeymoon phase with software development. I'm a huge fan of how it can take me to places I’ve never been before and enable me to do things I could never achieve without it.
+My romance with coding began a few years ago when I started studying Computer Science at Thompson Rivers University. Now, I'm in the honeymoon phase with software development. I'm a huge fan of how it can take me to places I’ve never been before and enable me to do things I could never achieve without it.
 
 At the moment, I’m excitedly looking for opportunities in the development world as a junior software developer. If you know someone who knows someone, you have the chance to help me solidify my bond with programming and let us live happily ever after in the world of code.
 
